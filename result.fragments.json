@@ -1,0 +1,3125 @@
+{
+  "fragments": [
+    {
+      "text": "181/2014 Sb.",
+      "id": "7y19FJtDIrX",
+      "type": "LAW_NUMBER",
+      "level": 1
+    },
+    {
+      "text": "ZÁKON",
+      "id": "cARuDf3F3Of",
+      "type": "LAW_TYPE",
+      "level": 1
+    },
+    {
+      "text": "ze dne 23. července 2014",
+      "id": "bBgsZpXAF0P",
+      "type": "ISSUE_DATE",
+      "level": 1
+    },
+    {
+      "text": "o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti)",
+      "id": "9UGISl1EXVw",
+      "type": "LAW_TITLE",
+      "level": 1
+    },
+    {
+      "text": "Změna: 104/2017 Sb., 183/2017 Sb.",
+      "lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "text": "Změna: 205/2017 Sb.",
+      "lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "text": "Parlament se usnesl na tomto zákoně České republiky:",
+      "id": "kjW37bIHR5s",
+      "type": "ISSUED_BY",
+      "level": 1
+    },
+    {
+      "text": "ČÁST PRVNÍ",
+      "id": "kRCcK7cVcg",
+      "type": "PART_HEADLINE",
+      "level": 1
+    },
+    {
+      "text": "KYBERNETICKÁ BEZPEČNOST",
+      "id": "1AX9SvahXDW",
+      "type": "PART_TITLE",
+      "level": 2
+    },
+    {
+      "text": "HLAVA I",
+      "id": "cvgGivnNA0l",
+      "type": "CHAPTER_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "ZÁKLADNÍ USTANOVENÍ",
+      "id": "7NFuncwxzT7",
+      "type": "CHAPTER_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 1",
+      "id": "e9pDhwYKM5Z",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Předmět úpravy",
+      "id": "bdYKu16BCFI",
+      "type": "PARAGRAPH_TITLE",
+      "level": 4
+    },
+    {
+      "text": "(1) Tento zákon upravuje práva a povinnosti osob a působnost a pravomoci orgánů veřejné moci v oblasti kybernetické bezpečnosti.",
+      "id": "lN8CgVO0vHP",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(2) Tento zákon zapracovává příslušné předpisy Evropské unie^6) a upravuje zajišťování bezpečnosti sítí elektronických komunikací a informačních systémů.",
+      "id": "gEJp5Ehxgad",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(3) Tento zákon se nevztahuje na informační nebo komunikační systémy, které nakládají s utajovanými informacemi.",
+      "id": "3t9oEXiuKHA",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "Vymezení pojmů",
+      "id": "eY8gvRXqSUZ",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 2",
+      "id": "eZIGyZKlNY6",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "V tomto zákoně se rozumí",
+      "id": "5DsZzg0yc6Q",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) kybernetickým prostorem digitální prostředí umožňující vznik, zpracování a výměnu informací, tvořené informačními systémy, a službami a sítěmi elektronických komunikací^1),",
+      "id": "bCXp31RHmrp",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) kritickou informační infrastrukturou prvek nebo systém prvků kritické infrastruktury v odvětví komunikační a informační systémy^2) v oblasti kybernetické bezpečnosti,",
+      "id": "4aZgCoRio8F",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) bezpečností informací zajištění důvěrnosti, integrity a dostupnosti informací a dat,",
+      "id": "hv6g6cqNy4M",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) významným informačním systémem informační systém spravovaný orgánem veřejné moci, který není kritickou informační infrastrukturou ani informačním systémem základní služby a u kterého narušení bezpečnosti informací může omezit nebo výrazně ohrozit výkon působnosti orgánu veřejné moci,",
+      "id": "73pNUozrkKt",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) správcem informačního systému orgán nebo osoba, které určují účel zpracování informací a podmínky provozování informačního systému,",
+      "id": "in5UjezsDeZ",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) správcem komunikačního systému orgán nebo osoba, které určují účel komunikačního systému a podmínky jeho provozování,",
+      "id": "ag08iqjVjYD",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) provozovatelem informačního nebo komunikačního systému orgán nebo osoba zajišťující funkčnost technických a programových prostředků tvořících informační nebo komunikační systém",
+      "id": "rJwwGJ52Hr",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) významnou sítí síť elektronických komunikací^1) zajišťující přímé zahraniční propojení do veřejných komunikačních sítí nebo zajišťující přímé připojení ke kritické informační infrastruktuře,",
+      "id": "iaVhW8Doec8",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) základní službou služba, jejíž poskytování je závislé na sítích elektronických komunikací^7) nebo informačních systémech a jejíž narušení by mohlo mít významný dopad na zabezpečení společenských nebo ekonomických činností v některém z těchto odvětví",
+      "id": "ha36wrhwxVF",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "1. energetika,",
+      "id": "8AVv1tqv7E2",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "2. doprava,",
+      "id": "eGQlbjtosjX",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "3. bankovnictví,",
+      "id": "kbVLaiWrmzY",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "4. infrastruktura finančních trhů,",
+      "id": "8eZLZhaIxzY",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "5. zdravotnictví,",
+      "id": "flhKLUAoywm",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "6. vodní hospodářství,",
+      "id": "ftQsmHfL0sN",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "7. digitální infrastruktura,",
+      "id": "5kusietHexc",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "8. chemický průmysl,",
+      "id": "5iZjX3eo3Zj",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "j) informačním systémem základní služby informační systém, na jehož fungování je závislé poskytování základní služby,",
+      "id": "hbVBt539zWB",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "k) provozovatelem základní služby orgán nebo osoba, která poskytuje základní službu a která je určena Národním úřadem pro kybernetickou a informační bezpečnost (dále jen \"Úřad\") podle § 22a; pro účely plnění informační povinnosti podle příslušného předpisu Evropské unie^8) se za provozovatele základní služby považují též orgány a osoby uvedené v § 3 písm. c) a d),",
+      "id": "JkvkCpnt52",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "l) digitální službou služba informační společnosti podle zákona upravujícího některé služby informační společnosti^9), která spočívá v provozování",
+      "id": "il2XYp44xKE",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "1. on-line tržiště, které spotřebiteli nebo prodávajícímu umožňuje on-line uzavírat s prodávajícím podnikatelem^10) kupní smlouvu nebo smlouvu o poskytnutí služeb, a to prostřednictvím internetové stránky on-line tržiště nebo prostřednictvím internetové stránky prodávajícího, který využívá službu poskytovanou on-line tržištěm,",
+      "id": "2gJOThX0kvR",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "2. internetového vyhledávače, který umožňuje provádět vyhledávání v zásadě na všech internetových stránkách, a to na základě dotazu uživatele na jakékoliv téma v podobě klíčového slova, sousloví nebo jiného zadání, přičemž služba poskytuje odkazy, na nichž lze nalézt informace související s požadovaným obsahem, nebo",
+      "id": "34sxEj0Rzaz",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "3. cloud computingu, který umožňuje přístup k rozšířitelnému a přizpůsobitelnému úložišti nebo výpočetním zdrojům, které je možné sdílet, a",
+      "id": "1mjJaVlXbv0",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "m) příslušným orgánem orgán vykonávající působnost v oblasti kybernetické bezpečnosti.",
+      "id": "4XjmVedqP6d",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "§ 3",
+      "id": "g0jX7H6LOdj",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Orgány a osobami, kterým se ukládají povinnosti v oblasti kybernetické bezpečnosti, jsou",
+      "id": "g46Ate2fd4s",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) poskytovatel služby elektronických komunikací a subjekt zajišťující síť elektronických komunikací^1), pokud není orgánem nebo osobou podle písmene b),",
+      "id": "jz2ZHJgAK2O",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) orgán nebo osoba zajišťující významnou síť, pokud nejsou správcem nebo provozovatelem komunikačního systému podle písmene d),",
+      "id": "9mjQ2QHLlP8",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) správce a provozovatel informačního systému kritické informační infrastruktury,",
+      "id": "dM66uNHKV1O",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) správce a provozovatel komunikačního systému kritické informační infrastruktury,",
+      "id": "bt6VwOeeFIN",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) správce a provozovatel významného informačního systému,",
+      "id": "eTI1dqudF3w",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) správce a provozovatel informačního systému základní služby, pokud nejsou správcem nebo provozovatelem podle písmene c) nebo d),",
+      "id": "gJpAQacMFnU",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) provozovatel základní služby, pokud není správcem nebo provozovatelem podle písmene f), a",
+      "id": "fu8jKE73j47",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) poskytovatel digitální služby.",
+      "id": "azgSPvPAjIm",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "§ 3a",
+      "id": "1YykAXwo57i",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Zástupce poskytovatele digitálních služeb",
+      "id": "9klLgD5u5yT",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Poskytovatel digitální služby, který poskytuje tuto službu v České republice, nemá sídlo v Evropské unii a neustavil si svého zástupce v jiném členském státě Evropské unie (dále jen \"jiný členský stát\"), je povinen ustavit si svého zástupce v České republice. Zástupcem poskytovatele digitální služby je osoba, která je usazená v České republice a která je poskytovatelem digitální služby na základě plné moci zmocněná jej zastupovat ve vztahu k povinnostem podle tohoto zákona.",
+      "id": "gHylTNDD75R",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) V případě, že poskytovatel digitální služby má sídlo mimo Evropskou unii a ustavil si svého zástupce v České republice, má se za to, že je usazen v České republice a vztahují se na něj povinnosti podle tohoto zákona.",
+      "id": "5DLx2iefsCg",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) V případě, že je poskytovatel digitální služby usazen v České republice nebo zde má ustaveného zástupce, ale jím využívané sítě elektronických komunikací a informační systémy se nacházejí v jiném členském státu, Úřad při výkonu státní správy spolupracuje s příslušným orgánem dotčeného členského státu.",
+      "id": "6qxVLUJzV1g",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "HLAVA II",
+      "id": "kECxk3emqFm",
+      "type": "CHAPTER_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "SYSTÉM ZAJIŠTĚNÍ KYBERNETICKÉ BEZPEČNOSTI",
+      "id": "lvr9XN7PTfT",
+      "type": "CHAPTER_TITLE",
+      "level": 3
+    },
+    {
+      "text": "Bezpečnostní opatření",
+      "id": "lSHELmZQuvX",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 4",
+      "id": "k2nucXlobUp",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Bezpečnostním opatřením se rozumí souhrn úkonů, jejichž cílem je zajištění bezpečnosti informací v informačních systémech a dostupnosti a spolehlivosti služeb a sítí elektronických komunikací^1) v kybernetickém prostoru.",
+      "id": "bjw6eDdcUVP",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Orgány a osoby uvedené v § 3 písm. c) až f) jsou povinny zavést a provádět bezpečnostní opatření v rozsahu nezbytném pro zajištění kybernetické bezpečnosti informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury, informačního systému základní služby a významného informačního systému a vést o nich bezpečnostní dokumentaci.",
+      "id": "dAhnmcgLUoW",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Poskytovatel digitální služby je povinen zavést a provádět vhodná a přiměřená bezpečnostní opatření pro sítě elektronických komunikací a informační systémy, které využívá v souvislosti se zajišťováním své služby, přičemž tato bezpečnostní opatření zohledňují zajištění bezpečnosti informací, zvládání kybernetických bezpečnostních incidentů, řízení kontinuity činností, monitorování, audit, testování a soulad s mezinárodními předpisy.",
+      "id": "j2egks5mCrL",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Orgány a osoby uvedené v § 3 písm. c) až f) jsou povinny zohlednit požadavky vyplývající z bezpečnostních opatření při výběru dodavatele pro jejich informační nebo komunikační systém a tyto požadavky zahrnout do smlouvy, kterou s dodavatelem uzavřou. Zohlednění požadavků vyplývajících z bezpečnostních opatření podle věty první v míře nezbytné pro splnění povinností podle tohoto zákona nelze považovat za nezákonné omezení hospodářské soutěže nebo neodůvodněnou překážku hospodářské soutěži.",
+      "id": "b7VTWrCZtSY",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(5) Orgány a osoby uvedené v § 3 písm. c) až g), které jsou orgány veřejné moci, jsou povinny si ve smlouvě s poskytovatelem služeb cloud computingu zejména zajistit, že budou dodržována bezpečnostní pravidla pro poskytování služeb cloud computingu stanovená Úřadem, a že budou mít na základě své žádosti bez zbytečného odkladu k dispozici informace a data, která pro ně poskytovatel služeb cloud computingu uchovává včetně možnosti kontroly uchovávaných informací a dat v reálném čase. Dalšími nezbytnými náležitostmi smlouvy jsou",
+      "id": "3tAtw1gwDfL",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) zakotvení povinnosti poskytovatele služeb respektovat bezpečnostní politiku odběratele služeb,",
+      "id": "ekLsdR7VNRc",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) stanovení úrovně poskytovaných služeb,",
+      "id": "cyq4xDxF1ZA",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) systém schvalování subdodavatelů služby cloud computingu,",
+      "id": "dBKxEIHkuLl",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) podmínky ukončení smluvního vztahu z pohledu bezpečnosti,",
+      "id": "id0RW0MPdnc",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) řízení kontinuity činností v souvislosti s poskytovanou službou cloud computingu,",
+      "id": "xOolFzgvOE",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) určení vlastníka uchovávaných dat,",
+      "id": "7Mii4f6aMnx",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) dohoda o důvěrnosti smluvního vztahu,",
+      "id": "9ppfMjKkyoQ",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) stanovení úrovně ochrany dat z pohledu důvěrnosti, dostupnosti a integrity,",
+      "id": "48M0dPiSsF",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) pravidla zákaznického auditu,",
+      "id": "l1co1WJFkHP",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "j) stanovení povinnosti poskytovatele služeb informovat odběratele o kybernetických bezpečnostních incidentech souvisejících s plněním smlouvy.",
+      "id": "hNSXciSA7Fq",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(6) Poskytovatel služby cloud computingu a orgány a osoby uvedené v § 3 písm. c) až g), které jsou orgány veřejné moci, si ve smlouvě dále dohodnou způsob a výši úhrady účelně vynaložených nákladů na zavedení bezpečnostních pravidel.",
+      "id": "e8s3L07bCMj",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(7) Zohlednění požadavků vyplývajících z bezpečnostních pravidel, bezpečnostních opatření a dalších podmínek sjednaných ve smlouvě podle odstavce 5, které jsou nezbytné pro splnění povinností podle tohoto zákona, nelze považovat za nezákonné omezení hospodářské soutěže nebo neodůvodněnou překážku hospodářské soutěži.",
+      "id": "hl0RcJ6wwIG",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 4a",
+      "id": "euW8SjBtNTm",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Orgány a osoby, které se staly správci informačních nebo komunikačních systémů kritické informační infrastruktury nebo správci významných informačních systémů, a nejsou provozovateli tohoto systému, jsou povinny neprodleně a prokazatelně informovat provozovatele systému o této skutečnosti a o tom, že se tento provozovatel stal orgánem nebo osobou podle § 3 písm. c), d) nebo e).",
+      "id": "4hjir0F45gG",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Orgány a osoby, které se staly správci nebo provozovateli informačních nebo komunikačních systémů kritické informační infrastruktury, jsou povinny neprodleně a prokazatelně informovat subjekt zajišťující síť elektronických komunikací, ke které je jejich předmětný informační nebo komunikační systém kritické informační infrastruktury připojen, o této skutečnosti a o tom, že se tento subjekt stal orgánem nebo osobou podle § 3 písm. b).",
+      "id": "7m6usRAceYl",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Orgány a osoby, které byly podle § 22a určené provozovateli základní služby a nejsou zároveň správci nebo provozovateli svých informačních systémů základní služby, jsou povinny správce nebo provozovatele tohoto informačního systému základní služby neprodleně a prokazatelně informovat o svém určení a o tom, že se dotčený správce nebo provozovatel stal orgánem nebo osobou podle § 3 písm. f).",
+      "id": "eInVhMF3sXW",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 5",
+      "id": "fSvu7UlAnNw",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Bezpečnostními opatřeními jsou",
+      "id": "jOTv4xAU6Ux",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) organizační opatření a",
+      "id": "fSmdW2WECO2",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) technická opatření.",
+      "id": "dEzTmmtzqgq",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(2) Organizačními opatřeními jsou",
+      "id": "4bIPH5uj36A",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) systém řízení bezpečnosti informací,",
+      "id": "7lU8SHjmk1T",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) řízení rizik,",
+      "id": "2S50DTRK21a",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) bezpečnostní politika,",
+      "id": "4fgG0ML2k8L",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) organizační bezpečnost,",
+      "id": "D03MgxAZbp",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) stanovení bezpečnostních požadavků pro dodavatele,",
+      "id": "fTnLKah70cT",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) řízení aktiv,",
+      "id": "6b98JZ13BGX",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) bezpečnost lidských zdrojů,",
+      "id": "2I7i2JjGzoU",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) řízení provozu a komunikací kritické informační infrastruktury nebo významného informačního systému,",
+      "id": "hSTw19p7BEb",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) řízení přístupu osob ke kritické informační infrastruktuře nebo k významnému informačnímu systému,",
+      "id": "j2Qmsa3wJyc",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "j) akvizice, vývoj a údržba kritické informační infrastruktury a významných informačních systémů,",
+      "id": "3cf2LmHwL6b",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "k) zvládání kybernetických bezpečnostních událostí a kybernetických bezpečnostních incidentů,",
+      "id": "bPBdRuw6nZz",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "l) řízení kontinuity činností a",
+      "id": "gFJ8CuB5peU",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "m) kontrola a audit kritické informační infrastruktury a významných informačních systémů.",
+      "id": "lYEQUoYbwU9",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(3) Technickými opatřeními jsou",
+      "id": "jl9QvVyWeQ9",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) fyzická bezpečnost,",
+      "id": "1tYTNYLO5ss",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) nástroj pro ochranu integrity komunikačních sítí,",
+      "id": "99wGmnAWNsu",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) nástroj pro ověřování identity uživatelů,",
+      "id": "4qF7sg3jxrj",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) nástroj pro řízení přístupových oprávnění,",
+      "id": "DQ3LTxvHyD",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) nástroj pro ochranu před škodlivým kódem,",
+      "id": "6lUz7M6oXBy",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) nástroj pro zaznamenávání činnosti kritické informační infrastruktury a významných informačních systémů, jejich uživatelů a administrátorů,",
+      "id": "feejR5e54p",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) nástroj pro detekci kybernetických bezpečnostních událostí,",
+      "id": "kyq9min5kL4",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) nástroj pro sběr a vyhodnocení kybernetických bezpečnostních událostí,",
+      "id": "2TCVQfoqyht",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) aplikační bezpečnost,",
+      "id": "dOtv7zZT1Ay",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "j) kryptografické prostředky,",
+      "id": "gsPiwBt2Y8M",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "k) nástroj pro zajišťování úrovně dostupnosti informací a",
+      "id": "bsq512Aw57l",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "l) bezpečnost průmyslových a řídících systémů.",
+      "id": "IujBC5V9Uw",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "§ 6",
+      "id": "9VYAk8k6zkj",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Prováděcí právní předpis stanoví",
+      "id": "h3UGr3jqGW0",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) obsah bezpečnostních opatření,",
+      "id": "hPIHRhluYLR",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) obsah a strukturu bezpečnostní dokumentace,",
+      "id": "1Aa7d4Zl3Di",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) rozsah bezpečnostních opatření pro orgány a osoby uvedené v § 3 písm. c) až f),",
+      "id": "m7n3y9xAt7",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) významné informační systémy a jejich určující kritéria,",
+      "id": "3AVhuXmrcR",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) obsah a rozsah bezpečnostních pravidel pro orgány veřejné moci využívající služby poskytovatelů cloud computingu.",
+      "id": "6fTz43NBhsN",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "§ 6a",
+      "id": "fr3qLrGGe6b",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Správce informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému může pověřit provozováním informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému jiný orgán nebo osobu, pokud to jiný zákon nevylučuje.",
+      "id": "dsAEfiqO9mY",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Provozovatel informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému předá na vyžádání správce tohoto systému bez zbytečného odkladu a v dohodnutém formátu data, provozní údaje a informace, které má k dispozici v souvislosti s provozováním tohoto systému. Ustanovení právního předpisu upravujícího práva k duševnímu vlastnictví nejsou předáním dat, provozních údajů a informací dotčena.",
+      "id": "gvfD77DRWIe",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Pokud provozovatel informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému nebude tento systém nadále provozovat, předá správci tohoto systému data, provozní údaje a informace, které má k dispozici v souvislosti s provozováním tohoto systému a které jsou nezbytné pro případné další provozování tohoto informačního systému nebo jeho jiné využití a bezpečně zlikviduje ve svém digitálním prostředí jejich kopie. Způsob likvidace dat, provozních údajů, informací a jejich kopií stanoví prováděcí právní předpis.",
+      "id": "4wGEXJuzhhO",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Provozovatel informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému má nárok na úhradu účelně vynaložených nákladů za předání dat, provozních údajů a informací podle odstavců 2 a 3; náklady provozovateli uhradí správce takového systému.",
+      "id": "12XCGF648Eg",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "Kybernetická bezpečnostní událost a kybernetický bezpečnostní incident",
+      "id": "5j2hA6zkK4v",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 7",
+      "id": "6qrLOJTv30g",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Kybernetickou bezpečnostní událostí je událost, která může způsobit narušení bezpečnosti informací v informačních systémech nebo narušení bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací^1).",
+      "id": "21L65VvsfVO",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Kybernetickým bezpečnostním incidentem je narušení bezpečnosti informací v informačních systémech nebo narušení bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací^1) v důsledku kybernetické bezpečnostní události.",
+      "id": "g9dJfPLSMtU",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Orgány a osoby uvedené v § 3 písm. b) až f) jsou povinny detekovat kybernetické bezpečnostní události v jejich významné síti, informačním systému kritické informační infrastruktury, komunikačním systému kritické informační infrastruktury, informačním systému základní služby nebo významném informačním systému.",
+      "id": "3gkkgCErQt6",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 8",
+      "id": "5eyCYxMMjgj",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Hlášení kybernetického bezpečnostního incidentu",
+      "id": "aus5GA9U2DL",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Orgány a osoby uvedené v § 3 písm. b) až f) jsou povinny hlásit kybernetické bezpečnostní incidenty v jejich významné síti, informačním systému kritické informační infrastruktury, komunikačním systému kritické informační infrastruktury, informačním systému základní služby nebo významném informačním systému, a to bezodkladně po jejich detekci; tím není dotčena informační povinnost podle jiného právního předpisu^3) nebo přímo použitelného předpisu Evropské unie upravujícího ochranu osobních údajů^11). V případě, že kybernetický bezpečnostní incident má významný dopad na kontinuitu poskytování základní služby, oznámí to provozovatel základní služby Úřadu.",
+      "id": "7Iw2sI8fK0u",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Poskytovatel digitální služby je povinen bez zbytečného odkladu hlásit kybernetický bezpečnostní incident s významným dopadem na poskytování jeho služeb, pokud má přístup k informacím nezbytným pro posouzení významnosti tohoto dopadu.",
+      "id": "7gHC4SkS8DX",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Orgány a osoby uvedené v § 3 písm. b) a h) hlásí kybernetické bezpečnostní incidenty provozovateli národního CERT.",
+      "id": "hlmnjJyvyU1",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Orgány a osoby uvedené v § 3 písm. c) až g) hlásí kybernetické bezpečnostní incidenty Úřadu.",
+      "id": "2UA8OzXMdSR",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(5) Povinnost podle odstavce 1 je správcem informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému splněna i tehdy, pokud byl kybernetický bezpečnostní incident hlášen provozovatelem tohoto systému. Provozovatel informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému informuje správce tohoto systému o hlášených kybernetických bezpečnostních incidentech bez zbytečného odkladu.",
+      "id": "O9UN14Lfts",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(6) Orgány a osoby neuvedené v § 3 mohou hlásit kybernetické bezpečnostní incidenty provozovateli národního CERT, nebo Úřadu.",
+      "id": "5deEc4GiKFZ",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(7) Prováděcí právní předpis stanoví",
+      "id": "8LiaxZErrjf",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) typy, kategorie a hodnocení významnosti dopadu kybernetického bezpečnostního incidentu a",
+      "id": "ePG83EVCH71",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) náležitosti a způsob hlášení kybernetického bezpečnostního incidentu.",
+      "id": "gVqjYjvN5LC",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(8) Pokud má kybernetický bezpečnostní incident, který postihnul poskytovatele digitální služby, významný dopad na kontinuitu poskytování základní služby, je její provozovatel povinen tuto skutečnost Úřadu nahlásit.",
+      "id": "imAv8qSoiAJ",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "Evidence",
+      "id": "5hjH3pvyAhf",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 9",
+      "id": "e0bwPK6By98",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Úřad vede evidenci kybernetických bezpečnostních incidentů (dále jen „evidence incidentů“), která obsahuje",
+      "id": "cZMwNIrQasc",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) hlášení kybernetického bezpečnostního incidentu,",
+      "id": "4MbpUIwCfGy",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) identifikační údaje systému, ve kterém se kybernetický bezpečnostní incident vyskytl,",
+      "id": "8cjLGvXCINo",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) údaje o zdroji kybernetického bezpečnostního incidentu a",
+      "id": "geBoxTT6HCO",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) postup při řešení kybernetického bezpečnostního incidentu a jeho výsledek.",
+      "id": "2bQSzQRpRN9",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(2) Součástí evidence incidentů jsou údaje podle § 20 písm. f) až h) a l).",
+      "id": "6W6ACcb4l5e",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Úřad poskytuje údaje z evidence incidentů orgánům veřejné moci pro výkon jejich působnosti.",
+      "id": "gGFVE1ZmDam",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Úřad může poskytovat údaje z evidence incidentů provozovateli národního CERT, orgánům vykonávajícím působnost v oblasti kybernetické bezpečnosti v zahraničí a jiným osobám působícím v oblasti kybernetické bezpečnosti v rozsahu nezbytném pro zajištění ochrany kybernetického prostoru.",
+      "id": "2pbTYrH8LLJ",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 10",
+      "id": "btfjv1AidMb",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Zaměstnanci České republiky zařazení k výkonu práce v Úřadu, kteří se podílejí na řešení kybernetického bezpečnostního incidentu, jsou vázáni povinností mlčenlivosti o údajích z evidence incidentů. Povinnost mlčenlivosti trvá i po skončení pracovněprávního vztahu k Úřadu.",
+      "id": "iMPmtCAqeTo",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Ředitel Úřadu může osoby podle odstavce 1 zprostit povinnosti mlčenlivosti o údajích z evidence incidentů, s uvedením rozsahu údajů a rozsahu zproštění.",
+      "id": "6tJYfN5rBlv",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 10a",
+      "id": "8ibEXMM8Fa5",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Informace, jejichž zpřístupnění by mohlo ohrozit zajišťování kybernetické bezpečnosti nebo účinnost opatření vydaného podle tohoto zákona, nebo informace, které jsou vedené v evidenci incidentů, ze kterých by bylo možné identifikovat orgán nebo osobu, která kybernetický bezpečnostní incident ohlásila, se podle předpisů upravujících svobodný přístup k informacím neposkytují.",
+      "id": "6HKCvjawT6a",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 11",
+      "id": "62a65pdjuPW",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Opatření",
+      "id": "1wjQ5mXg0jp",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Opatřeními se rozumí úkony, jichž je třeba k ochraně informačních systémů nebo služeb a sítí elektronických komunikací^1) před hrozbou v oblasti kybernetické bezpečnosti nebo před kybernetickým bezpečnostním incidentem anebo k řešení již nastalého kybernetického bezpečnostního incidentu.",
+      "id": "cAfsyKf4OEv",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Opatřeními jsou",
+      "id": "6TCR1JiPZdf",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) varování,",
+      "id": "jQtrItFj3zX",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) reaktivní opatření a",
+      "id": "1gbjA2E5VkA",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) ochranné opatření.",
+      "id": "hN0Z7ydJiU8",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(3) Reaktivní opatření jsou povinny provádět",
+      "id": "MbNHRQ8Q77",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) orgány a osoby uvedené v § 3 písm. a) a b) za stavu kybernetického nebezpečí nebo za nouzového stavu^4) vyhlášeného na základě žádosti podle § 21 odst. 6 a",
+      "id": "9Mgku0nc1Mu",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) orgány a osoby uvedené v § 3 písm. c) až f).",
+      "id": "ed9fuVYPUmu",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(4) Ochranné opatření jsou povinny provádět orgány a osoby uvedené v § 3 písm. c) až f).",
+      "id": "6hsRqCWEWvr",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 12",
+      "id": "j8x4I4Xn6k",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Varování",
+      "id": "aaajsc1lgEg",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Úřad vydá varování, dozví-li se zejména z vlastní činnosti nebo z podnětu provozovatele národního CERT anebo od orgánů, které vykonávají působnost v oblasti kybernetické bezpečnosti v zahraničí, o hrozbě v oblasti kybernetické bezpečnosti.",
+      "id": "fLSD8gF4m4O",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Varování Úřad zveřejní na svých internetových stránkách a oznámí je orgánům a osobám uvedeným v § 3, jejichž kontaktní údaje jsou vedeny v evidenci podle § 16 odst. 4.",
+      "id": "fQXPNzoHtbv",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Úřad je z důvodu ochrany vnitřního pořádku a bezpečnosti, ochrany života a zdraví osob nebo ochrany ekonomiky státu oprávněn po konzultaci s orgánem nebo osobou uvedenými v § 3 písm. c), d), f), g) nebo h), které jsou dotčeny kybernetickým bezpečnostním incidentem, veřejnost o tomto incidentu informovat nebo dotčenému orgánu nebo osobě uložit, aby tak učinil sám.",
+      "id": "55MtocCOzE1",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "Reaktivní a ochranné opatření",
+      "id": "4Bn9hHOU7hi",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 13",
+      "id": "eHiRNWODmd9",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Úřad vydá rozhodnutí, ve kterém uloží provést reaktivní opatření k řešení kybernetického bezpečnostního incidentu anebo k zabezpečení informačních systémů nebo sítí a služeb elektronických komunikací^1) před kybernetickým bezpečnostním incidentem, které je prvním úkonem ve věci. Nepodaří-li se rozhodnutí adresátovi doručit do vlastních rukou do 3 dnů ode dne jeho vydání, doručí se mu tak, že se vyvěsí na úřední desce Úřadu a tímto okamžikem je vykonatelné. Rozhodnutí podle věty první může Úřad vydat i v řízení na místě podle správního řádu.",
+      "id": "cq3P4VVhBUL",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Rozklad podaný proti rozhodnutí podle odstavce 1 nemá odkladný účinek.",
+      "id": "dPV6xw9VUA9",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Má-li se reaktivní opatření k řešení kybernetického bezpečnostního incidentu anebo k zabezpečení informačních systémů nebo sítí a služeb elektronických komunikací^1) před kybernetickým bezpečnostním incidentem týkat blíže neurčeného okruhu orgánů nebo osob, vydá je Úřad formou opatření obecné povahy.",
+      "id": "cNI8IUPpv0G",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Orgány a osoby uvedené v § 3 písm. a) až f) jsou povinny bez zbytečného odkladu oznámit Úřadu provedení reaktivního opatření a jeho výsledek. Náležitosti oznámení stanoví prováděcí právní předpis.",
+      "id": "eEi7Sox7iHW",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 14",
+      "id": "gvorPuDj9Tr",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Úřad za účelem zvýšení ochrany informačních systémů nebo služeb a sítí elektronických komunikací^1) a na základě analýzy již vyřešeného kybernetického bezpečnostního incidentu jako ochranné opatření vydá opatření obecné povahy, ve kterém orgánům a osobám uvedeným v § 3 písm. c) až f) stanoví způsob zvýšení ochrany informačních systémů nebo služeb a sítí elektronických komunikací^1) a přiměřenou lhůtu k jeho provedení.",
+      "id": "3UMLtLrguTt",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 15",
+      "id": "l6UuxePG1rx",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Opatření obecné povahy podle § 13 nebo 14 nabývá účinnosti okamžikem jeho vyvěšení na úřední desce Úřadu; ustanovení § 172 správního řádu se nepoužije. O vydání opatření obecné povahy Úřad rovněž vyrozumí orgány a osoby uvedené v § 3, jejichž kontaktní údaje jsou vedeny v evidenci podle § 16 odst. 4.",
+      "id": "96AXsIcBJoZ",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Připomínky k opatření obecné povahy vydanému podle § 13 nebo 14 lze uplatnit ve lhůtě 30 dnů ode dne jeho vyvěšení na úřední desce Úřadu. Úřad může na základě uplatněných připomínek opatření obecné povahy změnit nebo zrušit.",
+      "id": "1qC8LoY2ysX",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 15a",
+      "id": "7hyrU5UAwNI",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Úřad může v případě hrozícího kybernetického bezpečnostního incidentu na návrh správce informačního systému, který marně vyzval provozovatele ke splnění povinnosti předat správci data, provozní údaje a informace, které má k dispozici v souvislosti s provozováním tohoto systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému, rozhodnutím uložit provozovateli tohoto systému povinnost předat správci data, provozní údaje a informace, které má k dispozici v souvislosti s provozováním tohoto systému; návrh musí obsahovat odůvodnění požadavku s ohledem na hrozící kybernetický bezpečnostní incident, podrobný popis předchozího jednání mezi provozovatelem a správcem tohoto systému zejména s ohledem na nesplnění smluvní povinnosti provozovatele a možné následky, pokud nedojde k předání požadovaných dat, provozních údajů a informací.",
+      "id": "ljHHGWsbEP2",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Rozhodnutí o uložení povinnosti předat data, provozní údaje a informace podle odstavce 1 je prvním úkonem v řízení, je vykonatelné dnem doručení rozhodnutí a rozklad proti němu nemá odkladný účinek.",
+      "id": "48l7ZN7bbli",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Pro úhradu nákladů vynaložených provozovatelem informačního systému kritické informační infrastruktury, komunikačního systému kritické informační infrastruktury nebo významného informačního systému na předání dat, provozních údajů a informací podle odstavce 1 se ustanovení § 6a odst. 4 použije obdobně.",
+      "id": "2p98cjrqdhN",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 16",
+      "id": "8gE2tJv2kBu",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Kontaktní údaje",
+      "id": "79XUOtf1ozp",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Kontaktními údaji jsou",
+      "id": "fuvJtI52CEK",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) u právnické osoby obchodní firma nebo název, adresa sídla, identifikační číslo osoby nebo obdobné číslo přidělované v zahraničí,",
+      "id": "bAohkFhwSnP",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) u podnikající fyzické osoby obchodní firma nebo jméno včetně odlišujícího dodatku nebo dalšího označení, adresa sídla a identifikační číslo osoby,",
+      "id": "7xzeRWLPb1",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) u orgánu veřejné moci jeho název, adresa sídla, identifikační číslo osoby, bylo-li přiděleno, a identifikátor orgánu veřejné moci, pokud mu není přiděleno identifikační číslo osoby, a údaje o fyzické osobě, která je za orgán nebo osobu uvedené v § 3 oprávněna jednat ve věcech upravených tímto zákonem, a to jméno, příjmení, telefonní číslo a adresa elektronické pošty.",
+      "id": "lRW7K1qRavA",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(2) Kontaktní údaje a jejich změny oznamují",
+      "id": "elUtw8qAa7G",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) orgány a osoby uvedené v § 3 písm. a), b) a h) provozovateli národního CERT a",
+      "id": "6V3c4ycgsdT",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) orgány a osoby uvedené v § 3 písm. c) až g) Úřadu.",
+      "id": "2ZrPxE5iK7m",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(3) Orgány a osoby uvedené v § 3 písm. c) až g) oznamují změny pouze těch údajů podle odstavce 1, které nejsou referenčními údaji vedenými v základních registrech, a to neprodleně.",
+      "id": "1b121bJrUbT",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Úřad vede evidenci kontaktních údajů, která obsahuje údaje uvedené v odstavci 1.",
+      "id": "3Fh7nlywej2",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(5) Úřad je za stavu kybernetického nebezpečí oprávněn vyžadovat kontaktní údaje shromážděné provozovatelem národního CERT podle odstavce 2 písm. a).",
+      "id": "1uOfXgifruN",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(6) Úřad je dále oprávněn si pro účely kontroly vyžádat od provozovatele národního CERT kontaktní údaje orgánů a osob uvedených v § 3 písm. h).",
+      "id": "6UHiRWwwGDs",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(7) Vzor oznámení kontaktních údajů a jeho formu stanoví prováděcí právní předpis.",
+      "id": "1tPwl35mIpJ",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 17",
+      "id": "df2sqnNFVR8",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Národní CERT",
+      "id": "WHXOsSe65g",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Národní CERT zajišťuje v rozsahu stanoveném tímto zákonem sdílení informací na národní a mezinárodní úrovni v oblasti kybernetické bezpečnosti.",
+      "id": "h4F0cUJfrkd",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Provozovatel národního CERT",
+      "id": "hTts42C5Jo4",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) přijímá oznámení kontaktních údajů od orgánů a osob uvedených v § 3 písm. a), b) a h) a tyto údaje eviduje a uchovává,",
+      "id": "agpSHuHL8NK",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) přijímá hlášení o kybernetických bezpečnostních incidentech od orgánů a osob uvedených v § 3 písm. b) a h) a tyto údaje eviduje, uchovává a chrání,",
+      "id": "39PfHGEzqDm",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) vyhodnocuje kybernetické bezpečnostní incidenty u orgánů a osob uvedených v § 3 písm. b) a h),",
+      "id": "8C896VGpbAg",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) poskytuje orgánům a osobám uvedeným v § 3 písm. a), b) a h) metodickou podporu, pomoc a součinnost při výskytu kybernetického bezpečnostního incidentu,",
+      "id": "c2ztBXngEsT",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) působí jako kontaktní místo pro orgány a osoby uvedené v § 3 písm. a), b) a h),",
+      "id": "biepVxfqLeU",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) provádí hodnocení zranitelností v oblasti kybernetické bezpečnosti,",
+      "id": "dudcgb2JaT0",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) předává Úřadu údaje o kybernetických bezpečnostních incidentech ohlášených podle § 8 odst. 3, bez uvedení ohlašovatele,",
+      "id": "7OQdUUid9CW",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) předává Úřadu na vyžádání údaje podle § 16 odst. 5 a 6,",
+      "id": "3AxX1tJnEki",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) plní roli týmu CSIRT podle příslušného předpisu Evropské unie^12),",
+      "id": "16Gk6iDjZBa",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "j) informuje bez uvedení identifikačních údajů ohlašovatele příslušný orgán jiného členského státu o kybernetickém bezpečnostním incidentu s významným dopadem na kontinuitu poskytování základní nebo digitální služby v tomto členském státě a zároveň o tom informuje Úřad, přičemž zachovává bezpečnost a obchodní zájmy ohlašovatele,",
+      "id": "4CYLrFGdBb1",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "k) spolupracuje s týmy CSIRT jiných členských států a",
+      "id": "lc8uVEiX8e7",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "l) přijímá hlášení o kybernetických bezpečnostních incidentech od orgánů a osob neuvedených v § 3, a pokud to jeho kapacity umožňují, zpracovává je a poskytuje orgánům nebo osobám dotčeným kybernetickým bezpečnostním incidentem metodickou podporu, pomoc a součinnost.",
+      "id": "i897mX2AtjG",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(3) Provozovatel národního CERT může vlastním jménem a na vlastní odpovědnost vykonávat i další hospodářskou činnost v oblasti kybernetické bezpečnosti neupravenou tímto zákonem, pokud tato činnost nenaruší plnění povinností uvedených v odstavci 2.",
+      "id": "8xTSTaEp0AS",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Provozovatel národního CERT při plnění povinností uvedených v odstavci 2 koordinuje svou činnost s Úřadem.",
+      "id": "2c95CNPWgv5",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(5) Provozovatel národního CERT musí při plnění povinností podle odstavce 2 postupovat nestranně.",
+      "id": "a4FECMcpDIk",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 18",
+      "id": "2Cn02HDaNVe",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Provozovatel národního CERT",
+      "id": "lcSsliDq7jR",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Provozovatelem národního CERT se může stát pouze právnická osoba,",
+      "id": "2AKxM1vgc9B",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) která splňuje podmínky uvedené v odstavci 2 a",
+      "id": "i9vqh2pnv26",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) se kterou Úřad uzavřel veřejnoprávní smlouvu podle § 19.",
+      "id": "k54l7puZwIQ",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(2) Provozovatelem národního CERT může být pouze právnická osoba, která",
+      "id": "cOeliS5gy9k",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) nevyvíjí ani nevyvíjela činnost proti zájmu České republiky ve smyslu zákona upravujícího ochranu utajovaných informací,",
+      "id": "xVqCK57Urt",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) provozuje nebo spravuje informační systémy nebo služby a sítě elektronických komunikací^1) anebo se na jejich provozu a správě podílí, a to nejméně po dobu 5 let,",
+      "id": "5t3qjEiw5mo",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) má technické předpoklady v oblasti kybernetické bezpečnosti,",
+      "id": "8cnPVAvaUUa",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) je členem nadnárodní organizace působící v oblasti kybernetické bezpečnosti,",
+      "id": "jyPqJR3O0xk",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) nemá v evidenci daní u orgánů Finanční správy České republiky ani orgánů Celní správy České republiky ani v evidenci daní, pojistného na sociální zabezpečení a pojistného na veřejné zdravotní pojištění evidovány nedoplatky,",
+      "id": "3Ys9DZUbwHU",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) nebyla pravomocně odsouzena za spáchání trestného činu uvedeného v § 7 zákona o trestní odpovědnosti právnických osob a řízení proti nim,",
+      "id": "9w8o2uuWH7a",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) není zahraniční osobou podle jiného právního předpisu a",
+      "id": "lUg0lJFliwO",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) nebyla založena nebo zřízena výlučně za účelem dosažení zisku; tím není dotčena možnost provozovatele národního CERT postupovat podle § 17 odst. 3.",
+      "id": "746m9iVhJub",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(3) Zájemce prokazuje splnění podmínek předložením",
+      "id": "6X42MMCh3Cz",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) čestného prohlášení v případě odstavce 2 písm. a) až d), g) a h) a",
+      "id": "kiKla8Z9TBY",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) potvrzení orgánu Finanční správy České republiky a Celní správy České republiky v případě odstavce 2 písm. e).",
+      "id": "2hSCf9VhIGL",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(4) Z obsahu čestného prohlášení podle odstavce 3 písm. a) musí být zřejmé, že uchazeč splňuje příslušné předpoklady. Potvrzení podle odstavce 3 písm. b), že uchazeč nemá v evidenci daní u orgánů Finanční správy České republiky ani orgánů Celní správy České republiky ani v evidenci daní, pojistného na sociální zabezpečení a pojistného na veřejné zdravotní pojištění evidovány nedoplatky, nesmí být starší než 30 dnů. Za účelem prokázání podmínky uvedené v odstavci 2 písm. f) si Úřad vyžádá výpis z evidence Rejstříku trestů podle jiného právního předpisu^5).",
+      "id": "4MRt9TWg4b9",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(5) Provozovatel národního CERT vykonává činnosti podle podle § 17 odst. 2 písm. a) až c), e) a g) až l) bezúplatně. Provozovatel národního CERT je povinen vynaložit k řádnému a účelnému výkonu činností uvedených v § 17 odst. 2 nezbytné náklady.",
+      "id": "gMIQ680RLXH",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(6) Úřad zveřejní na svých internetových stránkách údaje o provozovateli národního CERT, a to jeho obchodní firmu nebo název, adresu sídla, identifikační číslo osoby, identifikátor datové schránky a adresu jeho internetových stránek.",
+      "id": "iZdth5uR1LV",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 19",
+      "id": "gWBNakxGAZR",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Veřejnoprávní smlouva",
+      "id": "heybCCvCt2K",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Úřad uzavírá veřejnoprávní smlouvu (dále jen „smlouva“) s právnickou osobou vybranou postupem podle § 163 odst. 4 správního řádu za účelem spolupráce v oblasti kybernetické bezpečnosti a zajištění činností podle § 17 odst. 2. Řízení o výběru žádosti vyhlašuje Úřad.",
+      "id": "3iTz3JKmpC6",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Smlouva obsahuje alespoň",
+      "id": "8N0W0ZOrjCo",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) označení smluvních stran,",
+      "id": "8dGfOlcmUjY",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) vymezení předmětu smlouvy,",
+      "id": "4WypY5mh8LT",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) práva a povinnosti smluvních stran,",
+      "id": "f1Gc4necCqR",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) podmínky spolupráce smluvních stran,",
+      "id": "2Tnlu0x8PBT",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) způsob a podmínky odstoupení smluvních stran od smlouvy,",
+      "id": "7FN5WZSJo5N",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) výpovědní lhůtu a výpovědní důvody,",
+      "id": "2TEryzV5s7p",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) zákaz zneužití údajů získaných v souvislosti s výkonem činností uvedených v § 17 odst. 2,",
+      "id": "2yJWAOM5HGm",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) vymezení podmínek pro výkon činnosti národního CERT podle § 17 odst. 3 a",
+      "id": "e99Pu5ED14c",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) způsob předání a rozsah údajů předávaných Úřadu v případě zániku závazku.",
+      "id": "hLDQCOZtP8",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(3) Smlouvu uzavřenou podle odstavce 1 Úřad zveřejňuje ve Věstníku Úřadu, s výjimkou těch částí smlouvy, jejichž zveřejnění neumožňuje jiný právní předpis.",
+      "id": "1C0lLVchtmj",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Není-li uzavřena smlouva podle odstavce 1, nebo v případě zániku závazku, vykonává činnost národního CERT Úřad.",
+      "id": "1HSQAqjUNWU",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 20",
+      "id": "smwKlqmAcg",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Vládní CERT",
+      "id": "9n4vzhqDc6u",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "Vládní CERT jako součást Úřadu",
+      "id": "e2xLsiIBGfY",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) přijímá oznámení kontaktních údajů od orgánů a osob uvedených v § 3 písm. c) až g),",
+      "id": "2HmHFoAwOtY",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) přijímá hlášení o kybernetických bezpečnostních incidentech od orgánů a osob uvedených v § 3 písm. c) až g),",
+      "id": "fKGBvWDgZ4a",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) vyhodnocuje údaje o kybernetických bezpečnostních událostech a kybernetických bezpečnostních incidentech z kritické informační infrastruktury, informačního systému základní služby, významných informačních systémů a dalších informačních systémů veřejné správy,",
+      "id": "cL9alzkkaYu",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) poskytuje orgánům a osobám uvedeným v § 3 písm. c) až g) metodickou podporu a pomoc,",
+      "id": "75kYNmnU4LX",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) poskytuje součinnost orgánům a osobám uvedeným v § 3 písm. c) až g) při výskytu kybernetického bezpečnostního incidentu a kybernetické bezpečnostní události,",
+      "id": "9STTEOKopX7",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) přijímá podněty a údaje od orgánů a osob uvedených v § 3 a od jiných orgánů a osob a tyto podněty a údaje vyhodnocuje,",
+      "id": "8AcSyqfhOI7",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) přijímá údaje od provozovatele národního CERT a tyto údaje vyhodnocuje,",
+      "id": "kTONU0l31hI",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) přijímá údaje od orgánů, které vykonávají působnost v oblasti kybernetické bezpečnosti v zahraničí, a tyto údaje vyhodnocuje,",
+      "id": "dU63eQyLAsh",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) poskytuje podle § 9 odst. 4 provozovateli národního CERT, orgánům vykonávajícím působnost v oblasti kybernetické bezpečnosti v zahraničí a jiným osobám působícím v oblasti kybernetické bezpečnosti údaje z evidence incidentů,",
+      "id": "3wF4ADoBCv1",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "j) provádí hodnocení zranitelností v oblasti kybernetické bezpečnosti,",
+      "id": "cXZlhKIwTk7",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "k) informuje bez uvedení identifikačních údajů ohlašovatele příslušný orgán jiného členského státu o kybernetickém bezpečnostním incidentu, který má významný dopad na kontinuitu poskytování základních služeb v tomto členském státě nebo se dotýká poskytování digitálních služeb v tomto členském státě, přičemž zachovává bezpečnost a obchodní zájmy ohlašovatele,",
+      "id": "bgjtvJrfwdG",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "l) přijímá hlášení o kybernetickém bezpečnostním incidentu od orgánů a osob neuvedených v § 3; vládní CERT hlášení zpracovává, a pokud to jeho kapacity umožňují a jedná se o kybernetický bezpečnostní incident s významným dopadem, poskytuje orgánům nebo osobám dotčeným kybernetickým bezpečnostním incidentem metodickou podporu, pomoc a součinnost,",
+      "id": "erLV2kjXd7y",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "m) plní roli týmu CSIRT podle příslušného předpisu Evropské unie^12) a",
+      "id": "3EHbsrtaQqB",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "n) spolupracuje s týmy CSIRT jiných členských států.",
+      "id": "jbaSWMmelVR",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "HLAVA III",
+      "id": "TJ3RNdcItS",
+      "type": "CHAPTER_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "STAV KYBERNETICKÉHO NEBEZPEČÍ",
+      "id": "5rDawSqcfdd",
+      "type": "CHAPTER_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 21",
+      "id": "jmR966ASplw",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "(1) Stavem kybernetického nebezpečí se rozumí stav, ve kterém je ve velkém rozsahu ohrožena bezpečnost informací v informačních systémech nebo bezpečnost služeb elektronických komunikací anebo bezpečnost a integrita sítí elektronických komunikací^1), a tím by mohlo dojít k porušení nebo došlo k ohrožení zájmu České republiky ve smyslu zákona upravujícího ochranu utajovaných informací.",
+      "id": "g9OqK5MBCRv",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(2) O vyhlášení stavu kybernetického nebezpečí rozhoduje ředitel Úřadu. Rozhodnutí o vyhlášení stavu kybernetického nebezpečí se vyhlašuje vyvěšením na úřední desce Úřadu. Informace o vyhlášení stavu kybernetického nebezpečí se zveřejňuje v celoplošném rozhlasovém a televizním vysílání. Provozovatel celoplošného televizního nebo rozhlasového vysílání je povinen bez náhrady nákladů na základě žádosti Úřadu neprodleně a bez úpravy obsahu a smyslu uveřejnit informace o vyhlášení stavu kybernetického nebezpečí.",
+      "id": "6sD14dfyGky",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(3) Rozhodnutí o vyhlášení stavu kybernetického nebezpečí nabývá účinnosti okamžikem, který se v rozhodnutí stanoví. Stav kybernetického nebezpečí se vyhlašuje na dobu nezbytně nutnou, nejdéle však na 7 dnů. Uvedenou dobu může ředitel Úřadu prodloužit; souhrnná doba trvání vyhlášeného stavu kybernetického nebezpečí nesmí být delší než 30 dnů.",
+      "id": "64vveZ9BT5F",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(4) V průběhu vyhlášeného stavu kybernetického nebezpečí ředitel Úřadu informuje vládu o postupech při řešení stavu kybernetického nebezpečí a o aktuálním stavu hrozeb, které vedly k vyhlášení stavu kybernetického nebezpečí. Za stavu kybernetického nebezpečí a za nouzového stavu^4) v případech podle odstavce 6 je Úřad oprávněn vydat rozhodnutí nebo opatření obecné povahy podle § 13 rovněž orgánům a osobám uvedeným v § 3 písm. a) a b).",
+      "id": "7zHFPX865O8",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(5) Stav kybernetického nebezpečí nelze vyhlásit v případě, kdy ohrožení bezpečnosti informací v informačních systémech nebo bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací^1) lze odvrátit činností Úřadu podle tohoto zákona.",
+      "id": "9F7VZCT5AUh",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(6) Není-li možné odvrátit ohrožení bezpečnosti informací v informačních systémech nebo bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací^1) v rámci stavu kybernetického nebezpečí, ředitel Úřadu neprodleně požádá vládu o vyhlášení nouzového stavu^4). Rozhodnutí a opatření obecné povahy vydaná Úřadem podle § 13 před vyhlášením nouzového stavu zůstávají v platnosti, pokud tato opatření nejsou v rozporu s krizovými opatřeními vyhlášenými vládou.",
+      "id": "fLer7zrKHWd",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(7) Stav kybernetického nebezpečí končí uplynutím doby, na kterou byl vyhlášen, pokud ředitel Úřadu nerozhodne o jeho zrušení před uplynutím této doby, nebo vyhlášením nouzového stavu^4).",
+      "id": "5iwrykvnqdC",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "HLAVA IV",
+      "id": "8ofaFPY9kqM",
+      "type": "CHAPTER_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "VÝKON STÁTNÍ SPRÁVY",
+      "id": "eoqAanBUDDS",
+      "type": "CHAPTER_TITLE",
+      "level": 3
+    },
+    {
+      "text": "Úřad",
+      "id": "6PU66xhMsix",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 21a",
+      "id": "l5DzM2WJxt0",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Zřizuje se Úřad se sídlem v Brně jako ústřední správní úřad pro oblast kybernetické bezpečnosti a pro vybrané oblasti ochrany utajovaných informací podle zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti. Příjmy a výdaje Úřadu tvoří samostatnou kapitolu státního rozpočtu.",
+      "id": "PWt3wTrucH",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) V čele Úřadu je ředitel, kterého jmenuje po projednání ve výboru Poslanecké sněmovny příslušném ve věcech bezpečnosti vláda, která ho též odvolává.",
+      "id": "1p6xcXOGtSx",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Ředitel Úřadu je odpovědný předsedovi vlády nebo pověřenému členovi vlády.",
+      "id": "4j56A51HOGY",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 22",
+      "id": "i6YjT3Jc3lT",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Úřad",
+      "id": "iUqJMdxjpYe",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) stanoví bezpečnostní opatření,",
+      "id": "d3xb7kJnQTd",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) vydává opatření,",
+      "id": "d9uhJqxPA4v",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) plní stanovené úkoly ve vybraných oblastech ochrany utajovaných informací,",
+      "id": "6lse2CNNYCI",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) vede evidence podle tohoto zákona a podle zákona o ochraně utajovaných informací,",
+      "id": "1yqRGPnDnat",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) ukládá správní tresty za nedodržení povinností stanovených tímto zákonem a zákonem o ochraně utajovaných informací a o bezpečnostní způsobilosti,",
+      "id": "kiLHpgH4D1O",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) působí jako koordinační orgán ve stavu kybernetického nebezpečí,",
+      "id": "5MTjYGaUigf",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) spolupracuje s orgány a osobami, které působí v oblasti kybernetické bezpečnosti a kybernetické obrany, zejména s veřejnoprávními korporacemi, výzkumnými a vývojovými pracovišti a s ostatními pracovišti typu CERT, a s orgány a osobami, které působí ve vybraných oblastech ochrany utajovaných informací,",
+      "id": "dTGtBz5J7qX",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) zajišťuje mezinárodní spolupráci v oblasti kybernetické bezpečnosti a ve vybraných oblastech ochrany utajovaných informací,",
+      "id": "7IjRQQFryx6",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) sjednává a uzavírá smlouvy o mezinárodní spolupráci v oblasti kybernetické bezpečnosti a ve vybraných oblastech ochrany utajovaných informací,",
+      "id": "6cybxdNkX9v",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "j) zajišťuje prevenci, vzdělávání a metodickou podporu v oblasti kybernetické bezpečnosti a ve vybraných oblastech ochrany utajovaných informací,",
+      "id": "grj60hL1BYt",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "k) zajišťuje výzkum a vývoj v oblasti kybernetické bezpečnosti a ve vybraných oblastech ochrany utajovaných informací,",
+      "id": "4NuJCg4yNNj",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "l) uzavírá veřejnoprávní smlouvu s provozovatelem národního CERT,",
+      "id": "5YaoFcQWecP",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "m) zasílá podle krizového zákona Ministerstvu vnitra návrh prvků kritické infrastruktury v odvětví komunikační a informační systémy v oblasti kybernetické bezpečnosti, jejichž provozovatelem je organizační složka státu,",
+      "id": "dd2N655ejtZ",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "n) určuje podle krizového zákona prvky kritické infrastruktury v odvětví komunikační a informační systémy v oblasti kybernetické bezpečnosti, pokud nejde o prvky uvedené v písmeni m),",
+      "id": "iL0nrCW4e3Z",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "o) ověřuje každé 2 roky aktuálnost určení prvků kritické infrastruktury podle písmen m) a n),",
+      "id": "4BIaVo8cWjY",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "p) určuje provozovatele základní služby a informační systém základní služby,",
+      "id": "idPsPriffvm",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "q) zpracovává a vládě ke schválení předkládá národní strategii kybernetické bezpečnosti^13) a akční plán k jejímu naplňování a tuto strategii aktualizuje nejméně každých 5 let,",
+      "id": "aWN1tZYVsRW",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "r) je jednotným kontaktním místem pro zajištění přeshraniční spolupráce v oblasti kybernetické bezpečnosti v rámci Evropské unie,",
+      "id": "5xpOKI6PIXN",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "s) je příslušným orgánem v České republice a plní informační povinnosti vůči Evropské komisi a skupině pro spolupráci podle příslušného předpisu Evropské unie^14),",
+      "id": "Va82sBEYim",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "t) informuje veřejnost o kybernetickém bezpečnostním incidentu podle § 12 odst. 3,",
+      "id": "lCx4lWfZqu9",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "u) provádí analýzu a monitoring kybernetických hrozeb a rizik,",
+      "id": "7189ty8BirM",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "v) vykonává působnost v oblasti veřejné regulované služby Evropského programu družicové navigace Galileo,",
+      "id": "eadF2PkuCZ2",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "w) vydává Věstník Úřadu, který zveřejňuje na svých internetových stránkách,",
+      "id": "kitHZENBAxN",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "x) plní další úkoly v oblasti kybernetické bezpečnosti stanovené tímto zákonem a ve vybraných oblastech ochrany utajovaných informací podle zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti.",
+      "id": "hILaiHTheaK",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "§ 22a",
+      "id": "csiYLtVAvbk",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Určení provozovatele základní služby a informačního systému základní služby",
+      "id": "lOCD9OP6P5N",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "(1) Úřad rozhodnutím určí provozovatele základní služby a informační systém základní služby, pokud naplní odvětvová a dopadová kritéria, která zohledňují významnost",
+      "id": "8SPhQV6mzq",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) služeb poskytovaných v jednotlivých odvětvích uvedených v § 2 písm. i) a",
+      "id": "ip632fEfh8N",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) dopad kybernetického bezpečnostního incidentu zejména na",
+      "id": "bwjEzjYw0ji",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "1. rozsah a kvalitu poskytování základní služby uživatelům, kteří jsou na ní závislí,",
+      "id": "lmJOwZz0JgY",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "2. ekonomické a společenské činnosti a veřejnou bezpečnost,",
+      "id": "iBDWHc1AZ5a",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "3. vzájemnou závislost odvětví uvedených v § 2 písm. i).",
+      "id": "jvYCMCVPHEz",
+      "type": "TEXT",
+      "level": 7
+    },
+    {
+      "text": "Dopadová a odvětvová kritéria pro určení provozovatele základní služby a vymezení významnosti dopadu narušení základní služby na zabezpečení společenských nebo ekonomických činností stanoví prováděcí právní předpis.",
+      "id": "9gOH9WCDpeQ",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(2) V případě, že Úřad zjistí, že orgán nebo osoba, které hodlá určit podle odstavce 1 jako provozovatele základní služby, poskytují danou službu i v jiném členském státě, provede před rozhodnutím ve věci konzultaci s příslušným orgánem dotčeného členského státu.",
+      "id": "5iI6NRgtCqz",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Proti rozhodnutí Úřadu o určení provozovatele základní služby a informačního systému základní služby není rozklad přípustný.",
+      "id": "kiq8MwKOEFv",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Úřad ověřuje nejméně každé 2 roky ode dne vydání rozhodnutí o určení provozovatele základní služby, zda jsou splněny podmínky pro určení provozovatele základní služby a informačního systému základní služby.",
+      "id": "aGke5PYESdF",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 22b",
+      "id": "hCGb3oDJaxx",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Úřadu jsou poskytovány pro výkon působnosti podle tohoto zákona ze základního registru obyvatel referenční údaje, kterými jsou",
+      "id": "kOfO0BE4uol",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) příjmení,",
+      "id": "3O9ILXnph2O",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) jméno, popřípadě jména,",
+      "id": "fchixhuQ45u",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) adresa místa pobytu,",
+      "id": "exvJT4P616",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) datum, místo a okres narození; u subjektu údajů, který se narodil v cizině, datum, místo a stát, kde se narodil,",
+      "id": "eUgJ1Mz1sly",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) datum, místo a okres úmrtí; jde-li o úmrtí subjektu údajů mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo,",
+      "id": "7QyusdOOkGD",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) státní občanství, popřípadě více státních občanství,",
+      "id": "6ERjp0mWYyN",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) záznam o zřízení datové schránky a identifikátor datové schránky, je-li tato datová schránka zpřístupněna.",
+      "id": "lzYURoNhzJU",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(2) Úřadu jsou poskytovány pro výkon působnosti podle tohoto zákona z agendového informačního systému evidence obyvatel o státních občanech České republiky údaje, kterými jsou",
+      "id": "eNU9o1QOD1M",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) jméno, popřípadě jména, příjmení, včetně předchozích příjmení, rodné příjmení,",
+      "id": "7XuJpaaGXDi",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) rodné číslo, pokud není přiděleno, datum narození,",
+      "id": "XFJ3D75s8U",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) adresa místa trvalého pobytu, včetně předchozích adres místa trvalého pobytu, popřípadě adresa, na kterou mají být doručovány písemnosti podle jiného právního předpisu,",
+      "id": "3ZSeh13u1W4",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) omezení svéprávnosti, jméno, popřípadě jména, příjmení a rodné číslo opatrovníka; nebylo-li opatrovníkovi rodné číslo přiděleno, datum, místo a okres narození; je-li opatrovníkem ustanoven orgán místní správy, název a adresa sídla,",
+      "id": "dwDjg1hPDsp",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) datum, místo a okres úmrtí; jde-li o úmrtí občana mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo,",
+      "id": "2qLLf3hGBhK",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti, popřípadě jako den, který občan prohlášený za mrtvého nepřežil.",
+      "id": "2Z6LHouTkxW",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "Údaje, které jsou vedeny jako referenční údaje v základním registru obyvatel, se využijí z agendového informačního systému evidence obyvatel, pouze pokud jsou ve tvaru předcházejícím současný stav.",
+      "id": "9padfQz7Y7s",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Úřadu jsou poskytovány pro výkon působnosti podle tohoto zákona z informačního systému cizinců o cizincích údaje, kterými jsou",
+      "id": "eXpJw04PU1T",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) jméno, popřípadě jména, příjmení, rodné příjmení,",
+      "id": "g1THSiz83fX",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) datum narození,",
+      "id": "3dGLsRj2e9E",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) rodné číslo,",
+      "id": "kEG7Z9Xu51Z",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) státní občanství, popřípadě více státních občanství,",
+      "id": "9PYpVInrs8Z",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) druh a adresa místa pobytu,",
+      "id": "ivCpATkKCZ6",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) číslo a platnost oprávnění k pobytu,",
+      "id": "ek089r06Shy",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) omezení svéprávnosti,",
+      "id": "bRKSIcKOqQe",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) datum, místo a okres úmrtí; jde-li o úmrtí mimo území České republiky, stát, na jehož území k úmrtí došlo, popřípadě datum úmrtí,",
+      "id": "6AuuLxIAF2V",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti, popřípadě jako den, který cizinec prohlášený za mrtvého nepřežil.",
+      "id": "lCsrAwzVKR4",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "Údaje, které jsou vedeny jako referenční údaje v základním registru obyvatel, se využijí z informačního systému cizinců, pouze pokud jsou ve tvaru předcházejícím současný stav.",
+      "id": "arqbCgO1e2",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Úřadu jsou poskytovány pro výkon působnosti podle tohoto zákona z registru rodných čísel o fyzických osobách, kterým bylo přiděleno rodné číslo, avšak nejsou vedeny v agendovém informačním systému evidence obyvatel, údaje, kterými jsou",
+      "id": "4MKyFUzf7mn",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) jméno, popřípadě jména, příjmení, popřípadě rodné příjmení,",
+      "id": "fOlsiLbZaeX",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) rodné číslo,",
+      "id": "1WpbKAo9jAc",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) v případě změny rodného čísla původní rodné číslo,",
+      "id": "fE80kMyj5Aq",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) den, měsíc a rok narození,",
+      "id": "89RI7HMX5CP",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) místo a okres narození; u fyzické osoby narozené v cizině stát, na jehož území se narodila.",
+      "id": "4B1patVoAH0",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(5) Úřadu jsou poskytovány pro výkon působnosti podle tohoto zákona ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci údaje, kterými jsou",
+      "id": "8VehcZZlC97",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) obchodní firma nebo název právnické osoby nebo jméno, popřípadě jména, a příjmení podnikající fyzické osoby,",
+      "id": "8z8kJglJWm4",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) datum vzniku nebo datum zápisu do evidence podle zvláštních právních předpisů,",
+      "id": "8SCtIKkh3Dz",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) datum zániku nebo datum výmazu z evidence podle zvláštních právních předpisů,",
+      "id": "4hLRuy2oWAI",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) právní forma,",
+      "id": "cBzKxR5vUYC",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) záznam o zřízení datové schránky a identifikátor datové schránky, je-li tato datová schránka zpřístupněna,",
+      "id": "9XfYc8Oi0lh",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) statutární orgán vyjádřený referenční vazbou na registr obyvatel anebo na registr osob nebo údajem o jménu, popřípadě jménech, příjmení a bydlišti u zahraniční fyzické osoby,",
+      "id": "4PoP2DPffXx",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) právní stav,",
+      "id": "aH8ZOI7RyZ",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) adresa sídla právnické osoby nebo adresa místa podnikání fyzické osoby ve formě referenční vazby (kódu adresního místa) na referenční údaj o adrese v registru územní identifikace.",
+      "id": "1k3Nv7bLkAw",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(6) K údajům podle odstavců 2 až 5 vedeným v agendových informačních systémech jsou Úřadu poskytovány i jejich předchozí změny.",
+      "id": "aujVSjjsU8Q",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(7) Z poskytovaných údajů lze v konkrétním případě použít vždy jen takové údaje, které jsou nezbytné ke splnění daného úkolu.",
+      "id": "a2M3u7Ay6A",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "HLAVA V",
+      "id": "55pQQp1imxJ",
+      "type": "CHAPTER_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "KONTROLA, NÁPRAVNÁ OPATŘENÍ A PŘESTUPKY",
+      "id": "jQ1YCIMl02L",
+      "type": "CHAPTER_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 23",
+      "id": "XO0eTLSeMu",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Kontrola",
+      "id": "6L2ytb6herq",
+      "type": "PARAGRAPH_TITLE",
+      "level": 4
+    },
+    {
+      "text": "(1) Úřad vykonává kontrolu v oblasti kybernetické bezpečnosti. Při výkonu kontroly Úřad zjišťuje, jak orgány a osoby uvedené v § 3 písm. a) až g) plní povinnosti stanovené tímto zákonem a rozhodnutími a opatřeními obecné povahy vydanými Úřadem podle tohoto zákona, a dodržují prováděcí právní předpisy v oblasti kybernetické bezpečnosti. Je-li důvodné podezření, že poskytovatel digitální služby neplní povinnosti stanovené tímto zákonem, provede u něj Úřad kontrolu.",
+      "id": "hTYtN9GRnvs",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(2) Při výkonu kontroly se postupuje přiměřeně podle kontrolního řádu.",
+      "id": "6AbLIgEO2yK",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(3) Kontrolu vykonávají pověření zaměstnanci Úřadu.",
+      "id": "44GxPN35aPW",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "§ 24",
+      "id": "ehpxhyWWbYm",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Nápravná opatření",
+      "id": "fVjD3hTw5UU",
+      "type": "PARAGRAPH_TITLE",
+      "level": 4
+    },
+    {
+      "text": "(1) Zjistí-li Úřad při kontrole nedostatky, uloží kontrolovanému orgánu nebo osobě, aby je ve stanovené lhůtě odstranila, popřípadě určí, jakým způsobem.",
+      "id": "3xPhX0VJ8xj",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(2) Pokud je informační systém kritické informační infrastruktury, komunikační systém kritické informační infrastruktury, informační systém základní služby nebo významný informační systém pro zjištěné nedostatky bezprostředně ohrožen kybernetickým bezpečnostním incidentem, který jej může významně poškodit nebo zničit, může kontrolní orgán zakázat kontrolovanému orgánu nebo osobě používání tohoto systému anebo jeho části do doby, než bude zjištěný nedostatek odstraněn.",
+      "id": "8TTalEWyzAy",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "Kontrola činnosti Úřadu",
+      "id": "fZHCIYAX972",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 24a",
+      "id": "cZpWab8IVQ0",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Kontrolu činnosti Úřadu vykonává Poslanecká sněmovna, která k tomuto účelu zřizuje zvláštní kontrolní orgán (dále jen \"kontrolní orgán\").",
+      "id": "2dLOmV4UNY4",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Kontrolní orgán se skládá ze 7 členů. Členem kontrolního orgánu může být pouze poslanec Poslanecké sněmovny.",
+      "id": "gx4gBih2r4M",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(3) Pokud tento zákon nestanoví jinak, vztahuje se na jednání kontrolního orgánu a na práva a povinnosti jeho členů přiměřeně jiný právní předpis^15).",
+      "id": "kT1NCbSuuau",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Členové kontrolního orgánu mohou vstupovat v doprovodu ředitele Úřadu nebo jím pověřeného zaměstnance do objektů Úřadu.",
+      "id": "2Lf2v0byXWZ",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(5) Ředitel Úřadu předkládá kontrolnímu orgánu",
+      "id": "Px6abTCm5N",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) zprávu o činnosti Úřadu,",
+      "id": "1DUQ5JZg6lt",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) návrh rozpočtu Úřadu,",
+      "id": "26doG0bXXSK",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) podklady potřebné ke kontrole plnění rozpočtu Úřadu,",
+      "id": "2ll7L56ff5L",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) vnitřní předpisy Úřadu,",
+      "id": "c41QMVq0oon",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) na vyžádání zprávu o jednotlivých kybernetických bezpečnostních incidentech z kritické informační infrastruktury, významných informačních systémů a informačních systémů základní služby.",
+      "id": "krNksTPGCWR",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "§ 24b",
+      "id": "hWkHrRq7erj",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Má-li kontrolní orgán za to, že činnost Úřadu nezákonně omezuje nebo poškozuje práva a svobody občanů nebo že rozhodovací činnost Úřadu v rámci správního řízení je stižena vadami, je oprávněn požadovat od ředitele Úřadu potřebné vysvětlení.",
+      "id": "dQsNNyaAU4N",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Každé porušení zákona zaměstnancem Úřadu při plnění povinností podle tohoto zákona a ve vybraných oblastech podle zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti, které kontrolní orgán zjistí při své činnosti, je povinen oznámit řediteli Úřadu a předsedovi vlády.",
+      "id": "kFInUzRoJbn",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 24c",
+      "id": "gEcoShN5Hay",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Povinnost zachovávat mlčenlivost uložená členům kontrolního orgánu podle zákona se nevztahuje na případy, kdy kontrolní orgán podává oznámení podle § 24b odst. 2.",
+      "id": "7uT3Dbx1mJi",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "Přestupky",
+      "id": "4VrQafq4s3Z",
+      "type": "GROUP_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 25",
+      "id": "66hNX7agVoj",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Poskytovatel služby elektronických komunikací a subjekt zajišťující síť elektronických komunikací nebo orgán nebo osoba zajišťující významnou síť se dopustí přestupku tím, že",
+      "id": "9o2vlBnINWY",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) nesplní za stavu kybernetického nebezpečí povinnost uloženou Úřadem v rozhodnutí nebo v opatření obecné povahy podle § 13, nebo",
+      "id": "glcMTvAOIYk",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) nesplní některou z povinností uloženou nápravným opatřením podle § 24.",
+      "id": "e1APRoVWyGB",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(2) Správce nebo provozovatel informačního nebo komunikačního systému kritické informační infrastruktury nebo správce nebo provozovatel významného informačního systému se dopustí přestupku tím, že",
+      "id": "awSvBpWJ9S1",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) v rozporu s § 4 odst. 2 nezavede nebo neprovádí bezpečnostní opatření anebo nevede bezpečnostní dokumentaci,",
+      "id": "lbiGRfaY0yB",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) neohlásí kybernetický bezpečnostní incident podle § 8 odst. 1 a 4,",
+      "id": "7DbEjuMD0ka",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) nesplní povinnost uloženou Úřadem v rozhodnutí nebo v opatření obecné povahy podle § 13 nebo 14,",
+      "id": "hhGm65K46Be",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) nesplní povinnost uloženou Úřadem v rozhodnutí podle § 15a odst. 1,",
+      "id": "8yfIf2ZNZJg",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) nepředá data, provozní údaje a informace podle § 6a odst. 2,",
+      "id": "hJ8Baga5vTa",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) nepředá data, provozní údaje a informace podle § 6a odst. 3,",
+      "id": "ktAasJRvJX7",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "g) nezničí kopie dat, provozních údajů a informací podle § 6a odst. 3,",
+      "id": "ay9GZ44Gx3o",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "h) neumožní správci dohled nad průběhem zničení dat, provozních údajů a informací podle § 6a odst. 3,",
+      "id": "biEPQsI72Vj",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "i) neoznámí kontaktní údaje nebo jejich změnu Úřadu podle § 16 odst. 2 písm. b) nebo",
+      "id": "3REcIXWFEy3",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "j) nesplní některou z povinností uloženou nápravným opatřením podle § 24.",
+      "id": "7dLWsWp42qr",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(3) Správce informačního nebo komunikačního systému kritické informační infrastruktury nebo významného informačního systému se dopustí přestupku tím, že neinformuje provozovatele systému podle § 4a odst. 1.",
+      "id": "chanu82ki6M",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(4) Správce nebo provozovatel informačního nebo komunikačního systému kritické informační infrastruktury se dopustí přestupku tím, že neinformuje subjekt zajišťující síť elektronických komunikací podle § 4a odst. 2.",
+      "id": "iqfSbyxzzGH",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(5) Provozovatel informačního nebo komunikačního systému kritické informační infrastruktury se dopustí přestupku tím, že",
+      "id": "hnCUjHZonDo",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) nesplní povinnost uloženou Úřadem v rozhodnutí podle § 15a odst. 1,",
+      "id": "fkcgIRdW4fn",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) nepředá data, provozní údaje a informace podle § 6a odst. 2,",
+      "id": "lk4uTFNu1Wf",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) nepředá data, provozní údaje a informace podle § 6a odst. 3,",
+      "id": "2fPS9i3N0L4",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) nezničí kopie dat, provozních údajů a informací podle § 6a odst. 3, nebo",
+      "id": "8DnzC5TGuz6",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) neumožní správci dohled nad průběhem zničení dat, provozních údajů a informací podle § 6a odst. 3.",
+      "id": "kkg18hotTMR",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(6) Orgán nebo osoba zajišťující významnou síť se dopustí přestupku tím, že neohlásí kybernetický bezpečnostní incident podle § 8 odst. 1 a 3.",
+      "id": "eR5rtaJFS3o",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(7) Správce a provozovatel informačního systému základní služby se dopustí přestupku tím, že",
+      "id": "5YMSmKoYzZC",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) v rozporu s § 4 odst. 2 nezavede nebo neprovádí bezpečnostní opatření nebo nevede bezpečnostní dokumentaci,",
+      "id": "dTXx4CriRUk",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) neohlásí kybernetický bezpečnostní incident podle § 8 odst. 1 a 4,",
+      "id": "6HBbaCQL6vR",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) nesplní povinnost informovat veřejnost uloženou Úřadem podle § 12 odst. 3,",
+      "id": "isgpIF2f6n1",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) nesplní povinnost uloženou Úřadem podle § 13 nebo 14,",
+      "id": "cLei0MDII0O",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) neoznámí kontaktní údaje nebo jejich změnu Úřadu podle § 16 odst. 2 písm. b), nebo",
+      "id": "hZj0BwC1wn0",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "f) nesplní některou z povinností uloženou nápravným opatřením podle § 24.",
+      "id": "bJZJvae9gYk",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(8) Správce nebo provozovatel informačního nebo komunikačního systému kritické informační infrastruktury, správce nebo provozovatel významného informačního systému, správce nebo provozovatel informačního systému základní služby a provozovatel základní služby, kteří jsou orgánem veřejné moci, se dopustí přestupku tím, že uzavřou smlouvu s poskytovatelem služeb cloud computingu v rozporu s § 4 odst. 5.",
+      "id": "6gigergSHGa",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(9) Správce nebo provozovatel informačního nebo komunikačního systému kritické informační infrastruktury se dopustí přestupku tím, že nesplní povinnost informovat veřejnost uloženou Úřadem podle § 12 odst. 3.",
+      "id": "9D3vQKnhS1O",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(10) Provozovatel základní služby se dopustí přestupku tím, že",
+      "id": "1VjJRTIOuqx",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) neinformuje správce nebo provozovatele informačního systému základní služby podle § 4a odst. 3,",
+      "id": "8HufhU6gusr",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) nenahlásí významný dopad na kontinuitu poskytování základní služby podle § 8 odst. 1 a 4,",
+      "id": "2fFJ0GNZDvC",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) nenahlásí významný dopad na kontinuitu poskytování základní služby způsobený kybernetickým bezpečnostním incidentem podle § 8 odst. 8,",
+      "id": "7IaVEP1CVXi",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) nesplní povinnost informovat veřejnost uloženou Úřadem podle § 12 odst. 3, nebo",
+      "id": "d70SdGk9LIG",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) neoznámí kontaktní údaje nebo jejich změnu Úřadu podle § 16 odst. 2 písm. b).",
+      "id": "5FHN0kfUNBI",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(11) Poskytovatel digitální služby se dopustí přestupku tím, že",
+      "id": "dhVwpvnqaBO",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) neustaví svého zástupce podle § 3a odst. 1,",
+      "id": "fGOnoyJFHcx",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) v rozporu s § 4 odst. 3 nezavede nebo neprovádí bezpečnostní opatření,",
+      "id": "hd7lsX72uo3",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) neohlásí kybernetický bezpečnostní incident podle § 8 odst. 2 a 3,",
+      "id": "9VfirR1FJhq",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) nesplní povinnost informovat veřejnost uloženou Úřadem podle § 12 odst. 3, nebo",
+      "id": "k4fukpvczhu",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "e) neoznámí kontaktní údaje nebo jejich změnu podle § 16 odst. 2 písm. a).",
+      "id": "81DfueJtlOx",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "(12) Za přestupek lze uložit pokutu do",
+      "id": "6CCcAwbi20K",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "a) 5 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), odstavce 7 písm. a) nebo odstavce 11 písm. b),",
+      "id": "3YXp8TRfNoK",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b), odstavce 2 písm. b), c) nebo e), odstavce 3, odstavce 4, odstavce 5 písm. a), c) nebo d), odstavce 6, odstavce 7 písm. b) až d) nebo f), odstavce 8, odstavce 9, odstavce 10 písm. a) až d) nebo odstavce 11 písm. a), c) nebo d),",
+      "id": "dRHK8BU4Njm",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "c) 200 000 Kč, jde-li o přestupek podle odstavce 5 písm. b) nebo e),",
+      "id": "4nZrEgW9bX1",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "d) 10 000 Kč, jde-li o přestupek podle odstavce 2 písm. d), odstavce 7 písm. e), odstavce 10 písm. e) nebo odstavce 11 písm. e).",
+      "id": "fwapMlJ3t6G",
+      "type": "TEXT",
+      "level": 6
+    },
+    {
+      "text": "§ 26",
+      "id": "3vG3Q2fKVmm",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "(1) Fyzická osoba se dopustí přestupku tím, že poruší povinnost uvedenou v § 10 odst. 1.",
+      "id": "aWp3nd6hRqw",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "(2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 Kč.",
+      "id": "7GcxYFfv6OI",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 27",
+      "id": "lX5fYPPJEw0",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 4
+    },
+    {
+      "text": "Společné ustanovení k přestupkům",
+      "id": "e2WlMe9Ex6P",
+      "type": "PARAGRAPH_TITLE",
+      "level": 5
+    },
+    {
+      "text": "Přestupky podle tohoto zákona projednává a pokuty vybírá Úřad.",
+      "id": "60ybEXRxJS5",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "HLAVA VI",
+      "id": "a6txSsR6bJ7",
+      "type": "CHAPTER_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "ZÁVĚREČNÁ USTANOVENÍ",
+      "id": "2AvIwtjf5tD",
+      "type": "CHAPTER_TITLE",
+      "level": 3
+    },
+    {
+      "text": "§ 28",
+      "id": "aesEaByhC0n",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Zmocňovací ustanovení",
+      "id": "llxnUveJVjK",
+      "type": "PARAGRAPH_TITLE",
+      "level": 4
+    },
+    {
+      "text": "(1) Úřad a Ministerstvo vnitra stanoví vyhláškou významné informační systémy a jejich určující kritéria podle § 6 písm. d).",
+      "id": "vGPEkkdTyi",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(2) Úřad stanoví vyhláškou",
+      "id": "aC7y2KupPAp",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "a) obsah a strukturu bezpečnostní dokumentace, obsah bezpečnostních opatření a rozsah bezpečnostních opatření podle § 6 písm. a) až c) a obsah a rozsah bezpečnostních pravidel podle § 6 písm. e),",
+      "id": "bgX5YclUfVD",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "b) typy, kategorie a hodnocení významnosti kybernetických bezpečnostních incidentů a náležitosti a způsob hlášení kybernetického bezpečnostního incidentu podle § 8 odst. 7,",
+      "id": "l0aBJEJ2YU7",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "c) náležitosti oznámení o provedení reaktivního opatření a jeho výsledku podle § 13 odst. 4,",
+      "id": "9Zoo7pcI9Yc",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "d) vzor oznámení kontaktních údajů a jeho formu podle § 16 odst. 7,",
+      "id": "dABx014zCps",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "e) dopadová a odvětvová kritéria pro určení provozovatele základní služby a vymezení významnosti dopadu narušení základní služby na zabezpečení společenských nebo ekonomických činností podle § 22a odst. 1,",
+      "id": "6TDNWkybwbQ",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "f) způsob likvidace dat, provozních údajů, informací a jejich kopií.",
+      "id": "5oQYLhzIVIN",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "Přechodná ustanovení",
+      "id": "9jTqULGjZi8",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "§ 29",
+      "id": "81DO5hQtd9i",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "(1) Orgány a osoby uvedené v § 3 písm. a) a b) oznámí kontaktní údaje podle § 16 nejpozději do 30 dnů ode dne nabytí účinnosti tohoto zákona.",
+      "id": "8LF8sWWH6Yn",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(2) Orgány a osoby uvedené v § 3 písm. b) začnou plnit povinnost stanovenou v § 8 odst. 1 a 2 nejpozději do 1 roku ode dne nabytí účinnosti tohoto zákona.",
+      "id": "4FjQNKY5sxR",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "§ 30",
+      "id": "9WIgPXWeFs7",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Orgány a osoby uvedené v § 3 písm. c) a d)",
+      "id": "6cwaZdvA1Ir",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "a) oznámí kontaktní údaje podle § 16 nejpozději do 30 dnů ode dne určení jejich informačního systému nebo komunikačního systému kritickou informační infrastrukturou,",
+      "id": "g9Di6SofWEL",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "b) začnou plnit povinnost stanovenou v § 8 odst. 1 a 4 nejpozději do 1 roku ode dne určení jejich informačního systému nebo komunikačního systému kritickou informační infrastrukturou a",
+      "id": "lQ3l58YSG1X",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "c) zavedou bezpečnostní opatření podle § 4 odst. 2 nejpozději do 1 roku ode dne určení jejich informačního systému nebo komunikačního systému kritickou informační infrastrukturou.",
+      "id": "7sFAlW1dQU5",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 31",
+      "id": "3bKaCaOOfgX",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Orgány a osoby uvedené v § 3 písm. e)",
+      "id": "cDtSYi99j2g",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "a) oznámí kontaktní údaje podle § 16 nejpozději do 30 dnů ode dne naplnění určujících kritérií významného informačního systému jejich informačních systémů,",
+      "id": "3rxETaCLxqN",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "b) začnou plnit povinnost stanovenou v § 8 odst. 1 a 4 nejpozději do 1 roku ode dne naplnění určujících kritérií významného informačního systému a",
+      "id": "7dOuZkwfmN6",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "c) zavedou bezpečnostní opatření podle § 4 odst. 2 nejpozději do 1 roku ode dne naplnění určujících kritérií významného informačního systému.",
+      "id": "1l0VbSdIZ78",
+      "type": "TEXT",
+      "level": 5
+    },
+    {
+      "text": "§ 32",
+      "id": "k6FAVvJwija",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Činnost národního CERT vykonává do doby, než nabude účinnosti veřejnoprávní smlouva uzavřená podle § 19, ten, kdo přede dnem nabytí účinnosti tohoto zákona vykonával činnost, kterou podle tohoto zákona vykonává národní CERT, nejdéle však do 2 let ode dne nabytí účinnosti tohoto zákona.",
+      "id": "9J820hpjcnQ",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "§ 33",
+      "id": "ayRWCdFG1fN",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 3
+    },
+    {
+      "text": "Společná ustanovení",
+      "id": "4ipAFXg6cif",
+      "type": "PARAGRAPH_TITLE",
+      "level": 4
+    },
+    {
+      "text": "(1) Tento zákon se vztahuje pouze na takové informační nebo komunikační systémy zpravodajských služeb, které splňují podmínky pro určení kritické informační infrastruktury, a to v rozsahu § 12 a 16; ustanovení § 4 se na tyto systémy použije přiměřeně a Úřad je jako prvky kritické infrastruktury podle § 22 odst. 2 písm. m) nenavrhuje.",
+      "id": "3QAgxQFxSbT",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(2) Na informační systém Policie České republiky a Generální inspekce bezpečnostních sborů pro analytickou činnost v trestním řízení se tento zákon vztahuje pouze v rozsahu § 12 a 16; ustanovení § 4 se na tento systém použije přiměřeně. To neplatí, pokud je tento systém kritickou informační infrastrukturou.",
+      "id": "25PQZuBfwdM",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(3) Tento zákon se vztahuje pouze na poskytovatele digitální služby, který je právnickou osobou a není mikropodnikem nebo malým podnikem^16).",
+      "id": "cL3AjdG31Bm",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "(4) Tento zákon se nevztahuje na poskytovatele digitální služby, který má sídlo v jiném členském státě.",
+      "id": "aU6c0RX7BtG",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "ČÁST DRUHÁ",
+      "id": "6GZoKp0VN0x",
+      "type": "PART_HEADLINE",
+      "level": 1
+    },
+    {
+      "text": "zrušena",
+      "id": "dlIx84GIf7R",
+      "type": "PART_TITLE",
+      "level": 2
+    },
+    {
+      "text": "§ 34",
+      "id": "kkCDY4VMaj4",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "zrušen",
+      "id": "gRLgQaVN65d",
+      "type": "PARAGRAPH_TITLE",
+      "level": 3
+    },
+    {
+      "text": "ČÁST TŘETÍ",
+      "id": "1Q9tOzQW4d8",
+      "type": "PART_HEADLINE",
+      "level": 1
+    },
+    {
+      "text": "Změna zákona o elektronických komunikacích",
+      "id": "gWZZOlNOdg",
+      "type": "PART_TITLE",
+      "level": 2
+    },
+    {
+      "text": "§ 35",
+      "id": "aUSutgyoyqS",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 290/2005 Sb., zákona č. 361/2005 Sb., zákona č. 186/2006 Sb., zákona č. 235/2006 Sb., zákona č. 310/2006 Sb., zákona č. 110/2007 Sb., zákona č. 261/2007 Sb., zákona č. 304/2007 Sb., zákona č. 124/2008 Sb., zákona č. 177/2008 Sb., zákona č. 189/2008 Sb., zákona č. 247/2008 Sb., zákona č. 384/2008 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 153/2010 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 94/2011 Sb., zákona č. 137/2011 Sb., zákona č. 341/2011 Sb., zákona č. 375/2011 Sb., zákona č. 420/2011 Sb., zákona č. 457/2011 Sb., zákona č. 458/2011 Sb., zákona č. 468/2011 Sb., zákona č. 18/2012 Sb., zákona č. 19/2012 Sb., zákona č. 142/2012 Sb., zákona č. 167/2012 Sb., zákona č. 273/2012 Sb., zákona č. 214/2013 Sb. a zákona č. 303/2013 Sb., se mění takto:",
+      "id": "5NloP0P444F",
+      "type": "TEXT",
+      "level": 3
+    },
+    {
+      "text": "1. V § 89 se doplňuje odstavec 4, který včetně poznámky pod čarou č. 62 zní:",
+      "id": "bEX2E6I5sQb",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "„(4) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinen na žádost účastníka bezplatně a ve formě umožňující další elektronické zpracování dat poskytnout mu provozní a lokalizační údaje, které má k dispozici na základě tohoto zákona, pokud je nemohl účastník pro poruchu na jeho zařízení v důsledku kybernetického bezpečnostního incidentu^62) zachytit nebo uložit. Údaje podnikatel předá, je-li to technicky možné, bezodkladně, nejpozději však do 3 dnů ode dne doručení žádosti nebo v případě probíhající komunikace ode dne jejího uskutečnění.",
+      "id": "8zSYrGTFbOt",
+      "type": "QUOTE",
+      "level": 5
+    },
+    {
+      "text": "62) § 7 odst. 2 zákona č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti).“.",
+      "id": "wFOcfKNSO05",
+      "type": "QUOTE",
+      "level": 5
+    },
+    {
+      "text": "2. V § 118 odst. 14 písm. y) se slovo „nebo“ zrušuje.",
+      "id": "56p1AnNZgy2",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "3. V § 118 se na konci odstavce 14 tečka nahrazuje slovem „ , nebo“ a doplňuje se písmeno ad), které zní:",
+      "id": "dfU2lQrVSse",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "„ad) v rozporu s § 89 odst. 4 neposkytne údaje, nebo je poskytne opožděně.“.",
+      "id": "2PmqU0zAfy4",
+      "type": "QUOTE"
+    },
+    {
+      "text": "4. V § 118 odst. 22 písm. a) se slovo „nebo“ nahrazuje čárkou a na konci textu písmene a) se doplňují slova „nebo odstavce 14 písm. ad)“.",
+      "id": "9CvUXA5YqbI",
+      "type": "TEXT",
+      "level": 4
+    },
+    {
+      "text": "ČÁST ČTVRTÁ",
+      "id": "lztidIx548y",
+      "type": "PART_HEADLINE",
+      "level": 1
+    },
+    {
+      "text": "zrušena",
+      "id": "iBsBwfYNjUx",
+      "type": "PART_TITLE",
+      "level": 2
+    },
+    {
+      "text": "§ 36",
+      "id": "d042a8gqVWr",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "zrušen",
+      "id": "9EjUIrluPPE",
+      "type": "PARAGRAPH_TITLE",
+      "level": 3
+    },
+    {
+      "text": "ČÁST PÁTÁ",
+      "id": "3k2rVR0v0aJ",
+      "type": "PART_HEADLINE",
+      "level": 1
+    },
+    {
+      "text": "Změna zákona o provozování rozhlasového a televizního vysílání",
+      "id": "YDMlEt2MTO",
+      "type": "PART_TITLE",
+      "level": 2
+    },
+    {
+      "text": "§ 37",
+      "id": "gQ6bgQ58xn5",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "V § 32 odst. 1 písm. k) zákona č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání a o změně dalších zákonů, ve znění zákona č. 274/2003 Sb., se za slova „válečného stavu,“ vkládají slova „stavu kybernetického nebezpečí,“.",
+      "id": "cGgz06IqLuv",
+      "type": "TEXT",
+      "level": 3
+    },
+    {
+      "text": "ČÁST ŠESTÁ",
+      "id": "1hJw94NswbW",
+      "type": "PART_HEADLINE",
+      "level": 1
+    },
+    {
+      "text": "ÚČINNOST",
+      "id": "dgy4stt4Xqm",
+      "type": "PART_TITLE",
+      "level": 2
+    },
+    {
+      "text": "§ 38",
+      "id": "4H7cS8qJS1R",
+      "type": "PARAGRAPH_HEADLINE",
+      "level": 2
+    },
+    {
+      "text": "Tento zákon nabývá účinnosti dnem 1. ledna 2015.",
+      "id": "iFyYSfxKFGs",
+      "type": "PARAGRAPH_TITLE",
+      "level": 3
+    }
+  ]
+}
