@@ -11,7 +11,7 @@
     "lodash": "^4.17.13",
     "pegjs": "^0.10.0",
     "pegjs-util": "^1.4.2",
-    "request": "^2.81.0",
+    "request": "^2.88.0",
     "request-promise": "^4.2.0"
   },
   "devDependencies": {
